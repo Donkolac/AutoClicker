@@ -42,8 +42,8 @@ keyEnterFrame.grid_rowconfigure(0, weight=1)
 keyEnterFrame.grid_rowconfigure(1, weight=1)
 
 # 1.2.3)Рамка выбора кнопки активации
-keyActivationFrame = ttk.Frame(window, width=275, height=120)
-keyActivationFrame.place(anchor="e", relx=0.5, y=330)
+keyActivationFrame = ttk.Frame(window, width=300, height=120)
+keyActivationFrame.place(anchor="center", relx=0.5, y=330)
 
 # 1.2.3)Рамка для флажков
 checksFrame = ttk.LabelFrame(window, width=385, height=150, relief='solid', text="Настройки использования")
