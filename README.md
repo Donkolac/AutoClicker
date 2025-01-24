@@ -28,10 +28,13 @@
 1. Скачайте скомпилированный файл из [релизов](https://github.com/Donkolac/AutoClicker/releases).  
    Download the compiled file from the [Releases](https://github.com/Donkolac/AutoClicker/releases).
 
-2. Запустите файл `AutoClicker.exe`.  
+2.Разархивируйте файл
+  Unzip the file
+
+3. Запустите файл `AutoClicker.exe`.  
    Run the `AutoClicker.exe` file.
 
-3 Используйте приложение как описано ниже.  
+4. Используйте приложение как описано ниже.  
    Use the application as described below. [Использование | Usage] 
 
    ---
